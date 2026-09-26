@@ -9,6 +9,19 @@ automation, and logistics visibility platforms.
 **2. Key Stakeholders**​
 
 
+| Key Stakeholders | Stakeholder Role / Interest |
+| :--- | :--- |
+| **Suppliers & Vendors** | Provide raw materials, goods, services |
+| **Manufacturers** | Convert raw materials into finished goods |
+| **Logistics Providers (3PL/4PL)** | Handle warehousing, transportation, last-mile delivery |
+| **Distributors & Wholesalers** | Move goods across regions/channels |
+| **Retailers & E-commerce** | Sell products to end customers |
+| **Customers (B2B/B2C)** | Expect timely, accurate deliveries |
+| **Regulators & Customs** | Enforce trade laws, tariffs, compliance |
+| **Finance Teams** | Manage procurement spend, freight costs |
+| **IT/SCM Vendors** | Provide ERP, WMS, TMS, SCM, and analytics tools |
+
+
 **3. Common Processes**
 
 * Procurement & Sourcing: Vendor selection, purchase orders, supplier contracts.
