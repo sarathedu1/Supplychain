@@ -11,7 +11,7 @@ automation, and logistics visibility platforms.
 **3. Common Processes**
 
 * Procurement & Sourcing: Vendor selection, purchase orders, supplier contracts.
-* * Production Planning & Scheduling: Forecasting demand, managing production
+* Production Planning & Scheduling: Forecasting demand, managing production
 runs.
 * Inventory Management: Stock control, reorder levels, safety stock optimization.
 * Warehousing & Fulfillment: Receiving, picking, packing, storage, distribution.
