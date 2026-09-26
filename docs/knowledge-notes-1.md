@@ -93,7 +93,7 @@ Associates).
 
 **9. Emerging Trends**
 
-*​ AI/ML in Demand Forecasting: Improved accuracy in planning.
+* AI/ML in Demand Forecasting: Improved accuracy in planning.
 * Blockchain for Supply Chain Transparency: Tamper-proof traceability.
 * IoT & Telematics: Real-time asset and fleet monitoring.
 * Green Logistics: Electric fleets, carbon-neutral delivery models.
