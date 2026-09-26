@@ -6,6 +6,7 @@ manufacturing, warehousing, transportation, and distribution. Business analysts 
 ERP/SCM implementations, demand forecasting, inventory optimization, warehouse
 automation, and logistics visibility platforms.
 
+**2. Key Stakeholders**​
 
 
 **3. Common Processes**
